@@ -1,2 +1,2 @@
-# react_shoho
+# ReactApp
 Created with CodeSandbox
